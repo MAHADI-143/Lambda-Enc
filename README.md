@@ -16,7 +16,7 @@
 
 `python Lambda-Enc.py`
 
-## fungsi
+## function
 - [x] lambda marshal
 - [x] lambda Zlib
 - [x] lambda base64
