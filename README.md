@@ -1,4 +1,4 @@
-Lambda Encrypt Tool
+## Lambda Encrypt Tool
 
 `pkg install python`
 
