@@ -15,3 +15,11 @@ Lambda Encrypt Tool
 `pip install -r requirements.txt`
 
 `python Lambda-Enc.py`
+
+## fungsi
+- [x] lambda marshal
+- [x] lambda Zlib
+- [x] lambda base64
+- [x] lambda Base32
+- [x] lambda base16
+- [x] DLL
